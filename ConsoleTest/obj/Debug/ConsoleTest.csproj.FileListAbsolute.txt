@@ -1,0 +1,7 @@
+D:\программирование\C#\МДК\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+D:\программирование\C#\МДК\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+D:\программирование\C#\МДК\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+D:\программирование\C#\МДК\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csproj.AssemblyReference.cache
+D:\программирование\C#\МДК\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+D:\программирование\C#\МДК\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+D:\программирование\C#\МДК\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb
