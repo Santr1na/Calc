@@ -21,6 +21,8 @@ namespace ConsoleTest
             Console.WriteLine("Разность = " + resultSub);
             resultMult = a * b;
             Console.WriteLine("Умножение = " + resultMult);
+            resultDiv = a / b;
+            Console.WriteLine("Деление = " + resultDiv);
             Console.ReadKey();
         }
     }
